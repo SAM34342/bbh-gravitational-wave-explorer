@@ -1,0 +1,16 @@
+# Large datasets
+gw_bbh_dataset_v2/
+gw_smoke/
+raw_noise/
+noise_cache/
+noise_cache_smoke/
+
+# Training outputs and checkpoints; select results later
+runs/
+
+# Python and notebook temporary files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
